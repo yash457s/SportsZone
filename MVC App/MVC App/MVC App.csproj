@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -6,8 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\Sign Up.html" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="wwwroot\css\Style.css" />
     <None Include="wwwroot\Home.html" />
+    <None Include="wwwroot\Sign Up.html" />
   </ItemGroup>
 
 </Project>
