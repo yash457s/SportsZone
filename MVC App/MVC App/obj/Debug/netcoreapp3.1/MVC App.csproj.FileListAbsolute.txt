@@ -1,0 +1,37 @@
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\bin\Debug\netcoreapp3.1\MVC App.exe
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\bin\Debug\netcoreapp3.1\MVC App.deps.json
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\bin\Debug\netcoreapp3.1\MVC App.runtimeconfig.json
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\bin\Debug\netcoreapp3.1\MVC App.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\bin\Debug\netcoreapp3.1\MVC App.dll
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\bin\Debug\netcoreapp3.1\MVC App.pdb
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\bin\Debug\netcoreapp3.1\MVC App.Views.dll
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\bin\Debug\netcoreapp3.1\MVC App.Views.pdb
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.AssemblyInfo.cs
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\staticwebassets\MVC App.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\staticwebassets\MVC App.StaticWebAssets.xml
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\scopedcss\bundle\MVC App.styles.css
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.TagHelpers.input.cache
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.TagHelpers.output.cache
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.Views.pdb
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.dll
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.pdb
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.genruntimeconfig.cache
+C:\Users\HP\Desktop\Sports_Zone 2\MVC App\MVC App\obj\Debug\netcoreapp3.1\MVC App.csproj.CopyComplete
