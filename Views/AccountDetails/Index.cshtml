@@ -1,0 +1,53 @@
+﻿@model IEnumerable<SportsZone2.Models.AccountDetails>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AccPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AccPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AccAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AccEmail)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AccPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AccPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AccAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AccEmail)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.AccName">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.AccName">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.AccName">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

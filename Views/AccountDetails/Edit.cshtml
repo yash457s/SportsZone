@@ -1,0 +1,49 @@
+﻿@model SportsZone2.Models.AccountDetails
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>AccountDetails</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="AccName" />
+            <div class="form-group">
+                <label asp-for="AccPassword" class="control-label"></label>
+                <input asp-for="AccPassword" class="form-control" />
+                <span asp-validation-for="AccPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AccPhone" class="control-label"></label>
+                <input asp-for="AccPhone" class="form-control" />
+                <span asp-validation-for="AccPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AccAddress" class="control-label"></label>
+                <input asp-for="AccAddress" class="form-control" />
+                <span asp-validation-for="AccAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AccEmail" class="control-label"></label>
+                <input asp-for="AccEmail" class="form-control" />
+                <span asp-validation-for="AccEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
